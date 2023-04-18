@@ -2,7 +2,7 @@
 
 
 # Alcance
-Se probaran Login , Adicionar Y Comprar de la página Saucedemo.com, centradas en pruebas funcionales 
+Se probaran Login , Adicionar producto Y Comprar producto de la página Saucedemo.com, centradas en pruebas funcionales 
 
 
 # Estrategia de pruebas
