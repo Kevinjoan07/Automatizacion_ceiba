@@ -29,8 +29,6 @@ Pruebas funcionales: se realizarán pruebas para asegurarse de que todas las fun
 
 
 
-
-
 # Ejecucion
 
 Al momento de ejecutar el proyecto y obtener el reporte debemos ubicarnos en la carpeta del proyecto y abrir el CMD para ejecutar el siguiente comando
@@ -42,3 +40,11 @@ Este comando ejecutara todos los escenarios implementados en el proyecto
 Al finalizar debemos ingresar y abrir el archivo index.html que se encuentra en la siguiente ruta
 
     <ProyectoName>\target\site\serenity\index.html
+
+
+
+
+
+# Anotacion
+
+Se anexa el archivo Bugs encontrados en donde se encuentran documentados  los errores encontrados en la pagina saucedemo.com
