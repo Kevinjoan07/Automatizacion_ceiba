@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Adicion de productos al carrito de compras de la pagina saucedemo.com","adicionar un producto al carrito de compras","SUCCESS","2023-04-17T20:07:00.7467765-05:00[America/Bogota]","0.0","5.76"
+"Confirmar Comprar de un producto en la pagina saucedemo.com","confirmar compra exitosa en saucedemo.com","SUCCESS","2023-04-17T20:07:08.4392217-05:00[America/Bogota]","0.0","6.17"
+"Inicio de sesion en pagina saucedemo.com","Login exitoso","SUCCESS","2023-04-17T20:07:15.7239074-05:00[America/Bogota]","0.0","17.3"

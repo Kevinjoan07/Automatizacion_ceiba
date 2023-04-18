@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Adicion de productos al carrito de compras de la pagina saucedemo.com" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-04-18T01:07:00" hostname="LAPTOP-38CG2669" time="6.036">
+  <properties/>
+  <testcase name="adicionar un producto al carrito de compras" classname="Adicion de productos al carrito de compras de la pagina saucedemo.com" time="6.036"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 111.0.5563.64 (c710e93d5b63b7095afe8c2c17df34408078439d-refs/branch-heads/5563@{#995}) on port 61289
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1681780021.969][WARNING]: This version of ChromeDriver has not been tested with Chrome version 112.
+abr. 17, 2023 8:07:02 P. M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+        __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
+  _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
+ (_)_____| |   | | |  _| \___ \ | |   | |_) / _ \ \___ \\___ \|  _| | | | |
+  _|_____| |   | | | |___ ___) || |   |  __/ ___ \ ___) |___) | |___| |_| |
+ (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
+        /_/                                                                
+
+TEST PASSED: adicionar un producto al carrito de compras
+----------------------------------------------------------------------------
+]]></system-err>
+</testsuite>
