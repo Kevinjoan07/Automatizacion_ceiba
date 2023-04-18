@@ -2,7 +2,8 @@
 
 
 
-#Ejecucion
+# Ejecucion
+
 Al momento de ejecutar el proyecto y obtener el reporte debemos ubicarnos en la carpeta del proyecto y abrir el CMD para ejecutar el siguiente comando
 
     gradle clean test aggregate
