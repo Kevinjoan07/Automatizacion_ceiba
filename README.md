@@ -9,7 +9,7 @@ Al momento de ejecutar el proyecto y obtener el reporte debemos ubicarnos en la 
     gradle clean test aggregate
 Este comando ejecutara todos los escenarios implementados en el proyecto
 
-    7 actionable tasks: 7 executed
+    6 actionable tasks: 6 executed
 Al finalizar debemos ingresar y abrir el archivo index.html que se encuentra en la siguiente ruta
 
   <ProyectoName>\target\site\serenity\index.html
